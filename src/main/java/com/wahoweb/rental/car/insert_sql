@@ -1,0 +1,15 @@
+insert into image (image_url, car_id)
+values ('assets/img/cars/car-01.jpg', 1),
+values ('assets/img/profiles/avatar-0.jpg', 1),
+
+values ('assets/img/cars/car-02.jpg', 2),
+values ('assets/img/profiles/avatar-02.jpg', 2),
+
+values ('assets/img/cars/car-03.jpg', 3),
+values ('assets/img/profiles/avatar-03.jpg', 3),
+
+values ('assets/img/cars/car-04.jpg', 4),
+values ('assets/img/profiles/avatar-04.jpg', 4);
+
+
+
